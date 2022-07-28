@@ -1,0 +1,33 @@
+
+.first-image {
+	background-image: url(../../../../Downloads/nunu.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 2000px;
+}
+
+.first-message, .second-message, .bs-message {
+	text-align: center;
+	padding-top: 1000px;
+	color: white;
+}
+
+.blackscreen {
+	background-image: url(../../../../Downloads/blackscreen.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 2000px;
+}
+
+.second-image {
+	background-image: url(../../../../Downloads/zoe.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 2000px;
+}

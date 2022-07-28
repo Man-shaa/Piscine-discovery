@@ -1,0 +1,14 @@
+.tableau {
+	display: flex;
+	justify-content: center;
+	border: 2px;
+	align-self:
+}
+
+td {
+	text-align:center;
+}
+
+#user-name {
+	font-size: 45px;
+}

@@ -1,0 +1,12 @@
+.balloon {
+	background-color: red;
+	width: 205px;
+	height: 205px;
+	min-height: 200px;
+	min-width: 200px;
+	display: block;
+	margin: auto;
+	margin-top: 30%;
+	border : 2px solid black;
+	border-radius: 100%
+}

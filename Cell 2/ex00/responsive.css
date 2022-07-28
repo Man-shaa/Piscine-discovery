@@ -1,0 +1,33 @@
+body {
+	background-color:grey;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse:collapse; height: 140px; width: 90%; border: solid;
+	text-align: center;
+}
+
+#first_cell
+{
+	background-color: yellow;
+}
+
+#second_cell {
+	background-color: green;
+}
+
+td {
+	width:50%;
+	border: solid;
+}
+
+hr {
+	height: 1px;
+	background-color: #000000;
+}
